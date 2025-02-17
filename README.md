@@ -250,6 +250,3 @@ console.log('output is on the way ')
 ### ✨ That's all for now!
 
 *Thanks for checking out my work. Feel free to reach out if you have any questions or suggestions!*
-```javascript  
-    
-``` 
