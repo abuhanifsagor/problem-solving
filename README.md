@@ -6,26 +6,18 @@ Every day, I tackle a new **coding problem**, pushing my problem-solving skills 
 ---
 ## 📅 Challenge Progress  
 
-| 🔢 Day | 📌 Problem Title | 📂 Solution File | 📆 Status |
-|----|---------------------------|-------------------|--------|
-| ✅ 1️⃣  | Print Numbers from 0 to N | [`print-numbers`](day1.js) | Completed 🎯 |
-#### Preview of Day 2 Code:
+| 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
+|----|---------------------|-------------------|--------|
+| ✅ 1️⃣  | Print Numbers from 0 to N | [`day-1-print-numbers.js`](day-1-print-numbers.js) | Completed 🎯 |
+```markdown
+#### Preview of Day 1 Code:
 ```javascript
-function countWords(str) {
-  let count = 0;
-  let isInWord = false;
-  
-  for (let char of str) {
-    if (char !== ' ') {
-      if (!isInWord) {
-        count++;
-        isInWord = true;
-      }
-    } else {
-      isInWord = false;
+function printNumber(N) {
+  if (N >= 0) {
+    for (let i = 0; i <= N; i++) {
+      console.log(i);
     }
   }
-  return count;
 }
 ```
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
