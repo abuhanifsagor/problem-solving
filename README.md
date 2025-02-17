@@ -1,13 +1,11 @@
   <h1 align="center">🚀 JavaScript 30-Day Problem-Solving Challenge</h1>
 
 🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
-Every day, I tackle a new **coding problem**, pushing my problem-solving skills to the next level.  
-
 ---
 ## 📅 Challenge Progress  
 
 | 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
-|----|---------------------|-------------------|--------|
+|----|--------------------|-----------------|---|
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](day1.js) | Completed 🎯 |
 | ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
@@ -250,6 +248,3 @@ console.log('output is on the way ')
 ### ✨ That's all for now!
 
 *Thanks for checking out my work. Feel free to reach out if you have any questions or suggestions!*
-```javascript  
-    
-``` 
