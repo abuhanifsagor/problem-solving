@@ -27,7 +27,7 @@ function countWords(str) {
   }
   return count;
 }
-
+```
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 <!-- 
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
