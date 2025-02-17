@@ -65,17 +65,28 @@ printNumber(5);
 
 ```
 ### 📝 Day 2: Word Counter
-**Problem Statement**:Write a JavaScript function countWords  that takes a string and returns the number of words contained in this string **0 to N**.
-
+**Problem Statement**: Write a JavaScript function `countWords()`  that takes a string and returns the number of words contained in this string .
 #### Code Preview:
 ```javascript
-function printNumber(N) {
-  if (N >= 0) {
-    for (let i = 0; i <= N; i++) {
-      console.log(i);
+function countWords(sentence) {
+  let words = 0;
+  let isWord = false;
+
+  for (const char of sentence) {
+
+    if (char != " ") {
+      if (!isWord) {
+        words++;
+        isWord = true;
+      }
+    } else {
+      isWord = false;
     }
   }
+  return words;
 }
-printNumber(5);
-//output :0 1 2 3 4 5
+const output = countWords("DEV ZeroOne is a Next-Gen Programming Learning Platform.");
+const output2 = countWords("       ");
+console.log(output,output2);
+//output 8 0
 
