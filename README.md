@@ -52,7 +52,7 @@ _(...and more challenges ahead! 💪)_
 **Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
 
 #### Code Preview:
-```
+```javascript
 function printNumber(N) {
   if (N >= 0) {
     for (let i = 0; i <= N; i++) {
