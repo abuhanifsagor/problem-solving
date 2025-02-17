@@ -1,4 +1,4 @@
-# 🚀 JavaScript 30-Day Problem-Solving Challenge  
+  <h1 align="center">🚀 JavaScript 30-Day Problem-Solving Challenge</h1>
 
 🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
 Every day, I tackle a new **coding problem**, pushing my problem-solving skills to the next level.  
