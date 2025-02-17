@@ -1,7 +1,8 @@
   <h1 align="center">🚀 JavaScript 30-Day Problem-Solving Challenge</h1>
-<br>
-🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
+
+🚀 Welcome to My JavaScript roblem-Solving Journey! 🎯  
 ---
+
 ## 📅 Challenge Progress  
 
 | 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
