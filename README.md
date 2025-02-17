@@ -97,7 +97,7 @@ console.log(output,output2);
 ```javascript
 
 ```
-
+<!--  
 ### 📝 Day 4: [Coming Soon...]
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
@@ -120,8 +120,8 @@ console.log(output,output2);
 ```
 
  ### 📝 Day 7: [Coming Soon...] 
- **Problem Statement**: [Problem statement will go here] 
- 
+ **Problem Statement**: 
+
  #### Code: 
 ```javascript  
 
@@ -242,7 +242,7 @@ console.log(output,output2);
 ```javascript  
 
 ``` 
-
+-->
 ### ✨ That's all for now!
 
 *Thanks for checking out my work. Feel free to reach out if you have any questions or suggestions!*
