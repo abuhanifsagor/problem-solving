@@ -5,6 +5,6 @@ function printNumber(N) {
     }
   }
 }
-
+ 
 printNumber(5);
 //output :0 1 2 3 4 5
