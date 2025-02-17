@@ -65,7 +65,7 @@ printNumber(5);
 //output :0 1 2 3 4 5
 
 ```
-### 📝 Day 2: Word Counter
+### 📝 Day 2: Word Counter [`🔗`](countWords(day2).js)
 **Problem Statement**: Write a JavaScript function `countWords()`  that takes a string and returns the number of words contained in this string .
 #### Code :
 ```javascript
@@ -92,7 +92,7 @@ console.log(output,output2);
 //output 8 0
 ```
 
-### 📝 Day 3: [Coming Soon...]
+### 📝 Day 3: [Coming Soon...] [`🔗`](name.js)[`🔗`](day1.js)
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
 ```javascript
@@ -124,125 +124,125 @@ console.log('output is on the way ')
 
 ```
 
- ### 📝 Day 7: [Coming Soon...] 
+ ### 📝 Day 7: [Coming Soon...] [`🔗`](name.js)
  **Problem Statement**: 
 
  #### Code: 
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 8: [Coming Soon...] 
+### 📝 Day 8: [Coming Soon...] [`🔗`](name.js)
 **Problem Statement**: 
 #### Code: 
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 9: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 9: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 10: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 10: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 11: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 11: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 12: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 12: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 13: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 13: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 14: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 14: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 15: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 15: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 16: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 16: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 17: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 17: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 18: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 18: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 19: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 19: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 20: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 20: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 21: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 21: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 22: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 22: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 23: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 23: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 24: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 24: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 25: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 25: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 26: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 26: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 27: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 27: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 28: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 28: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 29: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 29: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
 ``` 
-### 📝 Day 30: [Coming Soon...] **Problem Statement**: 
+### 📝 Day 30: [Coming Soon...] [`🔗`](name.js)**Problem Statement**: 
 #### Code:  
 ```javascript  
 console.log('output is on the way ')
