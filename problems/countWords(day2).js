@@ -18,4 +18,4 @@ function countWords(sentence) {
 
 const output = countWords("DEV ZeroOne is a Next-Gen Programming Learning Platform.");
 const output2 = countWords("       ");
-console.log(output,output2);
+console.log(output,output2); 
