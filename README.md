@@ -42,7 +42,7 @@
 | 🔜 3️⃣0️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
   -->
 
-
+ 
 _(...and more challenges ahead! 💪)_  
 
 ---
