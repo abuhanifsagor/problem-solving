@@ -9,8 +9,8 @@
 
 | 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
 |----|--------------------|-----------------|---|
-| ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](day1.js) | Completed 🎯 |
-| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
+| ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](problems/day1.js) | Completed 🎯 |
+| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](problems/jscountWords(day2).js) | Completed 🎯 |
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
  <!--
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
@@ -49,7 +49,7 @@ _(...and more challenges ahead! 💪)_
 
 ## 📂 Code Previews
 
-### 📝 Day 1: Print Numbers from 0 to N [`🔗`](day1.js)
+### 📝 Day 1: Print Numbers from 0 to N [`🔗`](problems/day1.js)
 **Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
 
 #### Code :
@@ -65,7 +65,7 @@ printNumber(5);
 //output :0 1 2 3 4 5
 
 ```
-### 📝 Day 2: Word Counter [`🔗`](countWords(day2).js)
+### 📝 Day 2: Word Counter [`🔗`](problems/countWords(day2).js)
 **Problem Statement**: Write a JavaScript function `countWords()`  that takes a string and returns the number of words contained in this string .
 #### Code :
 ```javascript
