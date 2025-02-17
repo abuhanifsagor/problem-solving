@@ -49,7 +49,7 @@ _(...and more challenges ahead! 💪)_
 
 ## 📂 Code Previews
 
-### 📝 Day 1: Print Numbers from 0 to N [`print numbers`](day1.js)
+### 📝 Day 1: Print Numbers from 0 to N [`🔗`](day1.js)
 **Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
 
 #### Code :
