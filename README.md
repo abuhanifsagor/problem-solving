@@ -95,6 +95,7 @@ console.log(output,output2);
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
 ```javascript
+console.log('output is on the way ')
 
 ```
 <!--  
@@ -102,6 +103,7 @@ console.log(output,output2);
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
 ```javascript
+console.log('output is on the way ')
 
 ```
 
@@ -109,6 +111,7 @@ console.log(output,output2);
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
 ```javascript
+console.log('output is on the way ')
 
 ```
 
@@ -116,6 +119,7 @@ console.log(output,output2);
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
 ```javascript 
+console.log('output is on the way ')
 
 ```
 
@@ -124,125 +128,128 @@ console.log(output,output2);
 
  #### Code: 
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 8: [Coming Soon...] 
 **Problem Statement**: 
 #### Code: 
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 9: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 10: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 11: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 12: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 13: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 14: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 15: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 16: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 17: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 18: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 19: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 20: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 21: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 22: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 23: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 24: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 25: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 26: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 27: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 28: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 29: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 ### 📝 Day 30: [Coming Soon...] **Problem Statement**: 
 #### Code:  
 ```javascript  
-
+console.log('output is on the way ')
 ``` 
 -->
 ### ✨ That's all for now!
 
 *Thanks for checking out my work. Feel free to reach out if you have any questions or suggestions!*
+```javascript  
+    
+``` 
