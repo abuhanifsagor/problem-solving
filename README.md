@@ -10,7 +10,7 @@
 | 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
 |----|--------------------|-----------------|---|
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](problems/day1.js) | Completed 🎯 |
-| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](problems/jscountWords(day2).js) | Completed 🎯 |
+| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js)  | Completed 🎯 |
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
  <!--
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
