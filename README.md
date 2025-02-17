@@ -8,8 +8,8 @@ Every day, I tackle a new **coding problem**, pushing my problem-solving skills 
 
 | 🔢 Day | 📌 Problem Title | 📂 Solution File | 📆 Status |
 |----|---------------------------|-------------------|--------|
-| ✅ 1️⃣  | Print Numbers from 0 to N | [`day-1-print-numbers.js`](day-1-print-numbers.js) | Completed 🎯 |
-| ✅ 2️⃣  | Count Words in a Sentence | [`countWords (day2).js`](countWords(day2).js) | Completed 🎯 |
+| ✅ 1️⃣  | Print Numbers from 0 to N | [`print-numbers`](day1.js) | Completed 🎯 |
+| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
 | 🔜 3️⃣  | [Coming Soon...] | `day-3-solution.js` | Pending ⏳ |
 <!-- 
 | 🔜 4️⃣  | [Coming Soon...] | `day-4-solution.js` | Pending ⏳ |
