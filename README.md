@@ -64,8 +64,8 @@ printNumber(5);
 //output :0 1 2 3 4 5
 
 ```
-### 📝 Day 1: Print Numbers from 0 to N
-**Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
+### 📝 Day 2: Word Counter
+**Problem Statement**:Write a JavaScript function countWords  that takes a string and returns the number of words contained in this string **0 to N**.
 
 #### Code Preview:
 ```javascript
