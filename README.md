@@ -4,7 +4,7 @@
 ---
 ## 📅 Challenge Progress  
 
-| 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
+| 🔢 Day            | 📌 Problem Title     | 📂 Solution File | 📆 Status |
 |------------------------|-----------------------------------------|---------------------------------------|----------------------------|
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](day1.js) | Completed 🎯 |
 | ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
