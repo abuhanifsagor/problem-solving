@@ -1,7 +1,6 @@
 # 🚀 JavaScript 30-Day Problem-Solving Challenge  
 
 🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
-<hr>
 ---
 ## 📅 Challenge Progress  
 
