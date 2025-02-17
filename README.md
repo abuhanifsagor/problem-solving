@@ -1,28 +1,31 @@
 # 🚀 JavaScript 30-Day Problem-Solving Challenge  
 
-Welcome to my **Problem Solving** repository! This is my **30-day JavaScript challenge**, where I solve a new coding problem every day.  
-
-## 📌 About This Repository  
-This repository is dedicated to improving my problem-solving skills by solving one JavaScript problem every day. Each day's solution is added as a separate file with a description of the problem in this README.  
+Welcome to my **JavaScript 30-Day Challenge**! 🎯  
+Every day, I tackle a new **coding problem**, pushing my problem-solving skills to the next level.  
 
 ---
 
-## 📅 Daily Challenges  
+## 🌟 Why This Challenge?  
+✅ Improve my **JavaScript skills**  
+✅ Build **logical thinking & problem-solving abilities**  
+✅ Stay **consistent** and **level up** daily  
 
-### ✅ Day 1: **Print Numbers from 0 to N**  
-**Problem:**  
-Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.  
+I will upload one solution **every day** along with the problem statement. Stay tuned for exciting coding challenges! 🚀  
 
-**Solution (JavaScript):**  
-```js
-function printNumber(N) {
-  if (N >= 0) {
-    for (let i = 0; i <= N; i++) {
-      console.log(i);
-    }
-  }
-}
+---
 
-printNumber(5);
-//output :0 1 2 3 4 5
+## 📅 Challenge Progress  
 
+| 🔢 Day | 📌 Problem Title | 📂 Solution File | 📆 Status |
+|----|---------------------------|-------------------|--------|
+| ✅ 1️⃣  | Print Numbers from 0 to N | `day-1-print-numbers.js` | Completed 🎯 |
+| ✅ 2️⃣  | Count Words in a Sentence | `day-2-count-words.js` | Completed 🎯 |
+| 🔜 3️⃣  | [Coming Soon...] | `day-3-solution.js` | Pending ⏳ |
+| 🔜 4️⃣  | [Coming Soon...] | `day-4-solution.js` | Pending ⏳ |
+| 🔜 5️⃣  | [Coming Soon...] | `day-5-solution.js` | Pending ⏳ |
+
+_(...and more challenges ahead! 💪)_  
+
+---
+
+## 📂 Repository Structure  
