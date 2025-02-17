@@ -2,7 +2,7 @@
 
 
 
-<h4 align="center" color="red"> 🚀 Welcome to My JavaScript roblem-Solving Journey! 🎯 </h4> 
+<h4 style="color: red;" align="center" > 🚀 Welcome to My JavaScript roblem-Solving Journey! 🎯 </h4> 
 
 
 ## 📅 Challenge Progress  
