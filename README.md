@@ -1,19 +1,9 @@
 # 🚀 JavaScript 30-Day Problem-Solving Challenge  
 
-🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯**! 🎯  
+🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
 Every day, I tackle a new **coding problem**, pushing my problem-solving skills to the next level.  
 
 ---
-
-## 🌟 Why This Challenge?  
-✅ Improve my **JavaScript skills**  
-✅ Build **logical thinking & problem-solving abilities**  
-✅ Stay **consistent** and **level up** daily  
-
-I will upload one solution **every day** along with the problem statement. Stay tuned for exciting coding challenges! 🚀  
-
----
-
 ## 📅 Challenge Progress  
 
 | 🔢 Day | 📌 Problem Title | 📂 Solution File | 📆 Status |
