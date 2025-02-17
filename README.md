@@ -11,7 +11,7 @@ Every day, I tackle a new **coding problem**, pushing my problem-solving skills 
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](day1.js) | Completed 🎯 |
 | ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!-- 
+ <!--
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 5️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 6️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
@@ -39,7 +39,7 @@ Every day, I tackle a new **coding problem**, pushing my problem-solving skills 
 | 🔜 2️⃣8️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 2️⃣9️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 3️⃣0️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
--->
+  -->
 
 
 _(...and more challenges ahead! 💪)_  
@@ -51,7 +51,7 @@ _(...and more challenges ahead! 💪)_
 ### 📝 Day 1: Print Numbers from 0 to N
 **Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
 
-#### Code Preview:
+#### Code :
 ```javascript
 function printNumber(N) {
   if (N >= 0) {
@@ -66,7 +66,7 @@ printNumber(5);
 ```
 ### 📝 Day 2: Word Counter
 **Problem Statement**: Write a JavaScript function `countWords()`  that takes a string and returns the number of words contained in this string .
-#### Code Preview:
+#### Code :
 ```javascript
 function countWords(sentence) {
   let words = 0;
@@ -89,4 +89,160 @@ const output = countWords("DEV ZeroOne is a Next-Gen Programming Learning Platfo
 const output2 = countWords("       ");
 console.log(output,output2);
 //output 8 0
+```
 
+### 📝 Day 3: [Coming Soon...]
+**Problem Statement**: [`emty 🕳️`]
+#### Code :
+```javascript
+
+```
+
+### 📝 Day 4: [Coming Soon...]
+**Problem Statement**: [`emty 🕳️`]
+#### Code :
+```javascript
+
+```
+
+### 📝 Day 5: [Coming Soon...]
+**Problem Statement**: [`emty 🕳️`]
+#### Code :
+```javascript
+
+```
+
+### 📝 Day 6: [Coming Soon...]
+**Problem Statement**: [`emty 🕳️`]
+#### Code :
+```javascript 
+
+```
+
+ ### 📝 Day 7: [Coming Soon...] 
+ **Problem Statement**: [Problem statement will go here] 
+ 
+ #### Code: 
+```javascript  
+
+``` 
+### 📝 Day 8: [Coming Soon...] 
+**Problem Statement**: 
+#### Code: 
+```javascript  
+
+``` 
+### 📝 Day 9: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 10: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 11: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 12: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 13: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 14: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 15: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 16: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 17: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 18: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 19: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 20: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 21: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 22: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 23: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 24: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 25: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 26: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 27: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 28: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 29: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+### 📝 Day 30: [Coming Soon...] **Problem Statement**: 
+#### Code:  
+```javascript  
+
+``` 
+
+### ✨ That's all for now!
+
+*Thanks for checking out my work. Feel free to reach out if you have any questions or suggestions!*
