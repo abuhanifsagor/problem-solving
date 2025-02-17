@@ -13,7 +13,6 @@ function countWords(sentence) {
       isWord = false;
     }
   }
-
   return words;
 }
 
