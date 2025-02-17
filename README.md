@@ -9,7 +9,25 @@ Every day, I tackle a new **coding problem**, pushing my problem-solving skills 
 | 🔢 Day | 📌 Problem Title | 📂 Solution File | 📆 Status |
 |----|---------------------------|-------------------|--------|
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print-numbers`](day1.js) | Completed 🎯 |
-| ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](countWords(day2).js) | Completed 🎯 |
+#### Preview of Day 2 Code:
+```javascript
+function countWords(str) {
+  let count = 0;
+  let isInWord = false;
+  
+  for (let char of str) {
+    if (char !== ' ') {
+      if (!isInWord) {
+        count++;
+        isInWord = true;
+      }
+    } else {
+      isInWord = false;
+    }
+  }
+  return count;
+}
+
 | 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 <!-- 
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
