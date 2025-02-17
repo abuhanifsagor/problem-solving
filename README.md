@@ -46,5 +46,21 @@ _(...and more challenges ahead! 💪)_
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Code Previews
+
+### 📝 Day 1: Print Numbers from 0 to N
+**Problem Statement**: Write a JavaScript function `printNumbers(N)` that prints all numbers from **0 to N**.
+
+#### Code Preview:
+```
+function printNumber(N) {
+  if (N >= 0) {
+    for (let i = 0; i <= N; i++) {
+      console.log(i);
+    }
+  }
+}
+printNumber(5);
+//output :0 1 2 3 4 5
+```
 
