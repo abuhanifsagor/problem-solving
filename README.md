@@ -1,6 +1,6 @@
 # 🚀 JavaScript 30-Day Problem-Solving Challenge  
 
-Welcome to my **JavaScript 30-Day Challenge**! 🎯  
+🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯**! 🎯  
 Every day, I tackle a new **coding problem**, pushing my problem-solving skills to the next level.  
 
 ---
