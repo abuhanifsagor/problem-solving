@@ -1,5 +1,5 @@
   <h1 align="center">🚀 JavaScript 30-Day Problem-Solving Challenge</h1>
-
+<br>
 🚀 Welcome to My JavaScript 30-Day Problem-Solving Journey! 🎯  
 ---
 ## 📅 Challenge Progress  
