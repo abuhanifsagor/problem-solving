@@ -145,7 +145,7 @@ console.log(removeWords(555));// Invalid Input
 console.log(removeWords(null));// Invalid Input
 
 
-
+ 
 ```
 ### 📝 Day 4: [Coming Soon...] [`🔗`](#)
 **Problem Statement**: [`emty 🕳️`]
