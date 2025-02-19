@@ -12,9 +12,9 @@
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](problems/day1.js) | Completed 🎯 |
 | ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js)  | Completed 🎯 |
 | ✅ 3️⃣  | Remove Words from a Sentence | [`removeWords`](problems/removeWords.js) | Completed 🎯 |
-| 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
- <!--
+| ✅ 4️⃣  | Odd Index Array | [`oddIndexOfArray`](problems/manipulationOddIndexArry.js) | Completed 🎯|
 | 🔜 5️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+ <!--
 | 🔜 6️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 7️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 8️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
@@ -147,14 +147,48 @@ console.log(removeWords(null));// Invalid Input
 
  
 ```
-### 📝 Day 4: [Coming Soon...] [`🔗`](#)
-**Problem Statement**: [`emty 🕳️`]
+### 📝 Day 4: Odd Indexed Elements [`🔗`](problems/manipulationOddIndexArry.js)
+**Problem Statement**: Write a JavaScript function that takes an array and returns a new array containing all the odd indexed elements from the original array. The function should handle the following cases.
+- If the input array is empty or not an array, it returns "Invalid Array".
+- If the input array contains non-numeric elements, it returns "Invalid Array".
+- If the length of the original array is less than 3, the function adds "DEVZEROONE" to the beginning and if the length of the original array more than 3, the function adds "DEVZEROONE" to the end.
+- We consider a 0-indexed position as an odd number.
 #### Code :
 ```javascript
-console.log('output is on the way ')
+function oddIndexOfArray(arrays){
+
+    if(arrays.length === 0 || 
+        !Array.isArray(arrays)){
+        return "Invalid Array"
+    }
+
+    for (const number of arrays) {
+        if(typeof number !== 'number'){
+            return "Invalid Array "
+        }
+       
+    }
+
+    let newArray = []
+    newArray.push(arrays[0]);
+
+    for( let i = 0; i < arrays.length ; i++ ){
+        i % 2 !== 0 ? newArray.push(arrays[i]) : null;
+    }
+    newArray.length < 3 ? newArray.push("DEVZEROONE") : newArray.unshift("DEVZEROONE");
+
+ return newArray;
+}
+
+const num = [ 12, 15, 8];
+const num2 = [12, 15, 8, 65, 20, 111];
+
+console.log(oddIndexOfArray(num)); // [ 12, 15, 'DEVZEROONE' ]
+
+console.log(oddIndexOfArray(num2));//[ 'DEVZEROONE', 12, 15, 65, 111 ]
 
 ```
-<!--  
+
 
 ### 📝 Day 5: [Coming Soon...] [`🔗`](#)
 **Problem Statement**: [`emty 🕳️`]
@@ -163,7 +197,7 @@ console.log('output is on the way ')
 console.log('output is on the way ')
 
 ```
-
+<!--  
 ### 📝 Day 6: [Coming Soon...] [`🔗`](#)
 **Problem Statement**: [`emty 🕳️`]
 #### Code :

@@ -26,5 +26,6 @@ function oddIndexOfArray(arrays){
 const num = [ 12, 15, 8];
 const num2 = [12, 15, 8, 65, 20, 111];
 
-console.log(oddIndexOfArray(num));
-console.log(oddIndexOfArray(num2));
+console.log(oddIndexOfArray(num)); // [ 12, 15, 'DEVZEROONE' ]
+
+console.log(oddIndexOfArray(num2));//[ 'DEVZEROONE', 12, 15, 65, 111 ]
