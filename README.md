@@ -92,14 +92,61 @@ console.log(output,output2);
 //output 8 0
 ```
 
-### 📝 Day 3: [Coming Soon...] [`🔗`](#)
-**Problem Statement**: [`emty 🕳️`]
+### 📝 Day 3: Remove Words [`🔗`](problems/removeWords.js)
+**Problem Statement**: Write a JavaScript function `removeWords()` that takes a string and returns the string without the first three words.
+- If the input is null, undefined, or the empty string, it returns "Invalid input".
+-  If the string length is three or less, it returns "String too short to remove".
+- Do not use any built-in string methods such as .slice() or .substring().
 #### Code :
 ```javascript
-console.log('output is on the way ')
+function removeWords(sentence) {
+ 
+if( sentence === null ||
+        sentence === undefined || 
+        sentence === ""){
+        return "Invalid Input "
+    }
+
+    if(typeof sentence !== 'string'){
+            return "Invalid Input"    
+    }  
+
+let removeWord =''
+let isWhiteSpaces = true;
+
+  for (const word  of sentence) {
+        if(word !== " "){
+            isWhiteSpaces = false;
+            break;
+        }
+
+        if(isWhiteSpaces){
+            return "Invalid Input";
+        }
+    }
+
+ if(sentence.length <= 3){
+        return " String is too short to remove";
+    }
+    
+    for(let i = 3; i < sentence.length; i++){
+
+        removeWord = removeWord + sentence[i];
+
+  }
+    return removeWord;
+}
+
+console.log(removeWords("Dev Zero One")); // Zero One
+console.log(removeWords("I love programming"));// ove programming
+console.log(removeWords("yes"));// String is too Short to remove
+console.log(removeWords(""));// Invalid Input
+console.log(removeWords(555));// Invalid Input
+console.log(removeWords(null));// Invalid Input
+
+
 
 ```
-<!--  
 ### 📝 Day 4: [Coming Soon...] [`🔗`](#)
 **Problem Statement**: [`emty 🕳️`]
 #### Code :
@@ -107,6 +154,7 @@ console.log('output is on the way ')
 console.log('output is on the way ')
 
 ```
+<!--  
 
 ### 📝 Day 5: [Coming Soon...] [`🔗`](#)
 **Problem Statement**: [`emty 🕳️`]
