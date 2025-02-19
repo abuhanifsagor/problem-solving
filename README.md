@@ -11,9 +11,9 @@
 |----|--------------------|-----------------|---|
 | ✅ 1️⃣  | Print Numbers from 0 to N | [`print numbers`](problems/day1.js) | Completed 🎯 |
 | ✅ 2️⃣  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js)  | Completed 🎯 |
-| 🔜 3️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
- <!--
+| ✅ 3️⃣  | Remove Words from a Sentence | [`removeWords`](problems/removeWords.js) | Completed 🎯 |
 | 🔜 4️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+ <!--
 | 🔜 5️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 6️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 🔜 7️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
