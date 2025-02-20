@@ -7,39 +7,39 @@
 
 ## 📅 Challenge Progress  
 
-| 🔢 Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
+|  Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
 |----|--------------------|-----------------|---|
-| 1️⃣  | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 |
-| 2️⃣  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
-| 3️⃣  | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
-| 4️⃣  | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
-| 5️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 1️  | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 |
+| 2️  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
+| 3️  | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
+| 4️  | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
+| 5️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
  <!--
-|   6️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   7️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   8️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   9️⃣  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   🔟  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣1️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣2️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣3️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣4️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣5️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣6️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣7️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣8️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️⃣9️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣0️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣1️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣2️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣3️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣4️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣5️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣6️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣7️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣8️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   2️⃣9️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   3️⃣0️⃣ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   6️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   7️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   9️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|     | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   1️1️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    20️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    21 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    22 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    23️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    24️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    25️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    26️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    27️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    28️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|    29️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+|   3️0️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
   -->
 
  
