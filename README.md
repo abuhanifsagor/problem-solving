@@ -9,7 +9,7 @@
 
 | Day | 📌 Problem Title  | 📂 Solution File | 📆 Status |
 |----|--------------------|-----------------|---|
-| 1️ | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 |
+| 1️ | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 | 
 | 2️ | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
 | 3️ | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
 | 4️ | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
