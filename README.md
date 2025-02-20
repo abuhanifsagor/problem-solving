@@ -2,7 +2,7 @@
 
 
 
-<h4  align="center" > 🚀 Welcome to My JavaScript roblem-Solving Journey! 🎯 </h4> 
+<h4  align="center" > 🚀 Welcome to My JavaScript problem-Solving Journey! 🎯 </h4> 
 
 
 ## 📅 Challenge Progress  
