@@ -13,9 +13,9 @@
 | 2️ | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
 | 3️ | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
 | 4️ | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
-| 5️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
- <!--
+| 5️ | Reverse Array | [`Reverse Array`](problems/reverseArray(day5).js) | Completed 🎯 |
 | 6️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 7️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 9️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |

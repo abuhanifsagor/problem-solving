@@ -14,7 +14,7 @@ function countWords(sentence) {
   let isWord = false;
 
   for (const char of sentence) {
-   
+
     if (char != " ") {
       if (!isWord) {
         words++;
