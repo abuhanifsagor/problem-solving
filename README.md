@@ -7,39 +7,39 @@
 
 ## 📅 Challenge Progress  
 
-|  Day | 📌 Problem Title     | 📂 Solution File | 📆 Status |
+| Day | 📌 Problem Title  | 📂 Solution File | 📆 Status |
 |----|--------------------|-----------------|---|
-| 1️  | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 |
-| 2️  | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
-| 3️  | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
-| 4️  | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
-| 5️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 1️ | Print Numbers from 0 to N | [`print numbers`](problems/printNumber(day1).js) | Completed 🎯 |
+| 2️ | Count Words in a Sentence | [`countWords`](problems/countWords(day2).js )  | Completed 🎯 |
+| 3️ | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
+| 4️ | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
+| 5️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
  <!--
-|   6️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   7️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   9️  | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|     | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   1️1️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    20️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    21 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    22 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    23️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    24️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    25️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    26️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    27️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    28️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|    29️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-|   3️0️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 6️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 7️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 9️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 10 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 1️1️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 20️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 21 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 22 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 23️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 24️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 25️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 26️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 27️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 28️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 29️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 3️0️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
   -->
 
  
@@ -56,9 +56,9 @@
 ```javascript
 function printNumber(N) {
   if (N >= 0) {
-    for (let i = 0; i <= N; i++) {
-      console.log(i);
-    }
+ for (let i = 0; i <= N; i++) {
+console.log(i);
+ }
   }
 }
 printNumber(5);
@@ -75,19 +75,19 @@ function countWords(sentence) {
 
   for (const char of sentence) {
 
-    if (char != " ") {
-      if (!isWord) {
-        words++;
-        isWord = true;
-      }
-    } else {
-      isWord = false;
-    }
+ if (char != " ") {
+if (!isWord) {
+  words++;
+  isWord = true;
+}
+ } else {
+isWord = false;
+ }
   }
   return words;
 }
 const output = countWords("DEV ZeroOne is a Next-Gen Programming Learning Platform.");
-const output2 = countWords("       ");
+const output2 = countWords(" ");
 console.log(output,output2);
 //output 8 0
 ```
@@ -102,39 +102,39 @@ console.log(output,output2);
 function removeWords(sentence) {
  
 if( sentence === null ||
-        sentence === undefined || 
-        sentence === ""){
-        return "Invalid Input "
-    }
+  sentence === undefined || 
+  sentence === ""){
+  return "Invalid Input "
+ }
 
-    if(typeof sentence !== 'string'){
-            return "Invalid Input"    
-    }  
+ if(typeof sentence !== 'string'){
+return "Invalid Input" 
+ }  
 
 let removeWord =''
 let isWhiteSpaces = true;
 
   for (const word  of sentence) {
-        if(word !== " "){
-            isWhiteSpaces = false;
-            break;
-        }
+  if(word !== " "){
+isWhiteSpaces = false;
+break;
+  }
 
-        if(isWhiteSpaces){
-            return "Invalid Input";
-        }
-    }
+  if(isWhiteSpaces){
+return "Invalid Input";
+  }
+ }
 
  if(sentence.length <= 3){
-        return " String is too short to remove";
-    }
-    
-    for(let i = 3; i < sentence.length; i++){
+  return " String is too short to remove";
+ }
+ 
+ for(let i = 3; i < sentence.length; i++){
 
-        removeWord = removeWord + sentence[i];
+  removeWord = removeWord + sentence[i];
 
   }
-    return removeWord;
+ return removeWord;
 }
 
 console.log(removeWords("Dev Zero One")); // Zero One
@@ -157,25 +157,25 @@ console.log(removeWords(null));// Invalid Input
 ```javascript
 function oddIndexOfArray(arrays){
 
-    if(arrays.length === 0 || 
-        !Array.isArray(arrays)){
-        return "Invalid Array"
-    }
+ if(arrays.length === 0 || 
+  !Array.isArray(arrays)){
+  return "Invalid Array"
+ }
 
-    for (const number of arrays) {
-        if(typeof number !== 'number'){
-            return "Invalid Array "
-        }
-       
-    }
+ for (const number of arrays) {
+  if(typeof number !== 'number'){
+return "Invalid Array "
+  }
+ 
+ }
 
-    let newArray = []
-    newArray.push(arrays[0]);
+ let newArray = []
+ newArray.push(arrays[0]);
 
-    for( let i = 0; i < arrays.length ; i++ ){
-        i % 2 !== 0 ? newArray.push(arrays[i]) : null;
-    }
-    newArray.length < 3 ? newArray.push("DEVZEROONE") : newArray.unshift("DEVZEROONE");
+ for( let i = 0; i < arrays.length ; i++ ){
+  i % 2 !== 0 ? newArray.push(arrays[i]) : null;
+ }
+ newArray.length < 3 ? newArray.push("DEVZEROONE") : newArray.unshift("DEVZEROONE");
 
  return newArray;
 }
