@@ -14,9 +14,9 @@
 | 3️ | Remove Words from a Sentence | [`removeWords`](problems/removeWords(day3).js) | Completed 🎯 |
 | 4️ | Odd Index Array | [`oddIndexOfArray`](problems/OddIndexArray(day4).js) | Completed 🎯|
 | 5️ | Reverse Array | [`Reverse Array`](problems/reverseArray(day5).js) | Completed 🎯 |
-| 6️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
+| 6️ | Filter Integers | [`Filter Integers`](problems/filterIntegers(day6).js) | Completed 🎯 |
 | 7️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 9️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 10 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
