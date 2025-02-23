@@ -3,6 +3,7 @@ Write a JavaScript function multiplicationTable that takes a number as input and
 
 Requirements:
 The function should accept a number as input.
+Number cannot be zero or negative.
 
 Example: Input:  5:
 Output: 
