@@ -16,9 +16,9 @@
 | 5️ | Reverse Array | [`Reverse Array`](problems/reverseArray(day5).js) | Completed 🎯 |
 | 6️ | Filter Integers | [`Filter Integers`](problems/filterIntegers(day6).js) | Completed 🎯 |
 | 7 | multiplication | [`multiplication`](problems/multiplicationTable(day7).js) | Completed 🎯 |
-| 8️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
+| 8️ | Find index | [`findIndex`](problems/findIndex(day8).js) | Completed 🎯 |
 | 9️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 10 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 1️1️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
