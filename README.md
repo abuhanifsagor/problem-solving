@@ -17,10 +17,10 @@
 | 6️ | Filter Integers | [`Filter Integers`](problems/filterIntegers(day6).js) | Completed 🎯 |
 | 7 | multiplication | [`multiplication`](problems/multiplicationTable(day7).js) | Completed 🎯 |
 | 8 | Find Index | [`findindex`](problems/findindex(day8).js) | Completed 🎯 |
-| 9️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
-| 10 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 9 | Count Digits | [`countDigits`](problems/countDigits(day9).js) | Completed 🎯 |
+| 10 | Pattern Prtint | [`patternPrint`](problems/patternPrint(day10).js) | Completed 🎯 |
 | 1️1️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
