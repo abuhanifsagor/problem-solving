@@ -20,9 +20,9 @@
 | 9 | Count Digits | [`countDigits`](problems/countDigits(day9).js) | Completed 🎯 |
 | 10 | Pattern Prtint | [`patternPrint`](problems/patternPrint(day10).js) | Completed 🎯 |
 | 1️1️ | Check Number | [`checkNumber`](problems/checkNumber(day11).js) | Completed 🎯 |
-| 12 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
+| 12 | Is Prime | [`isPrime`](problems/isPrime(day12).js) | Completed 🎯 |
 | 13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |

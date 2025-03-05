@@ -30,16 +30,18 @@ Input: "5"
 Output: "Invalid input"
 */
 
-function checkNumber(num){
-
-    if(typeof num !== 'number'){
-        return "Invalid Input"
-    }else if(num === 0){
-        return 'Zero'
-    }
-    else if(num < 0){
-        return num + " is a negative number"
-    }
-    return num + " is a positive number"
+function checkNumber(num) {
+  if (typeof num !== "number") {
+    return "Invalid Input";
+  }
+  // if(isNaN(num)){
+  //     return "Invalid Input"
+  // }
+  else if (num === 0) {
+    return "Zero";
+  } else if (num < 0) {
+    return num + " is a negative number";
+  }
+  return num + " is a positive number";
 }
-console.log( checkNumber(2));
+console.log(checkNumber("5"));
