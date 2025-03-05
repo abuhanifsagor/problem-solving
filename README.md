@@ -21,9 +21,9 @@
 | 10 | Pattern Prtint | [`patternPrint`](problems/patternPrint(day10).js) | Completed 🎯 |
 | 1️1️ | Check Number | [`checkNumber`](problems/checkNumber(day11).js) | Completed 🎯 |
 | 12 | Is Prime | [`isPrime`](problems/isPrime(day12).js) | Completed 🎯 |
-| 13️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
+| 13️ | removeDuplicates | [`removeDuplicates`](problems/removeDuplicate(day13).js) | Completed 🎯 |
 | 14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
