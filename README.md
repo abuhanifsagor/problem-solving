@@ -21,11 +21,11 @@
 | 10 | Pattern Prtint | [`patternPrint`](problems/patternPrint(day10).js) | Completed 🎯 |
 | 1️1️ | Check Number | [`checkNumber`](problems/checkNumber(day11).js) | Completed 🎯 |
 | 12 | Is Prime | [`isPrime`](problems/isPrime(day12).js) | Completed 🎯 |
-| 13️ | removeDuplicates | [`removeDuplicates`](problems/removeDuplicate(day13).js) | Completed 🎯 |
-| 14️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
-| 15️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 13️ | remove Duplicates | [`removeDuplicates`](problems/removeDuplicate(day13).js) | Completed 🎯 |
+| 14 | Count Vowels | [`countVowle`](problems/countVowel(day14).js) | Completed 🎯 |
+| 15️ | Multiple Arrays | [`multiArray`](problems/multiArray(day15).js) | Completed 🎯 |`](#) | Pending ⏳ |
 | 16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
