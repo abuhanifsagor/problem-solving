@@ -23,11 +23,11 @@
 | 12 | Is Prime | [`isPrime`](problems/isPrime(day12).js) | Completed 🎯 |
 | 13️ | remove Duplicates | [`removeDuplicates`](problems/removeDuplicate(day13).js) | Completed 🎯 |
 | 14 | Count Vowels | [`countVowle`](problems/countVowel(day14).js) | Completed 🎯 |
-| 15️ | Multiple Arrays | [`multiArray`](problems/multiArray(day15).js) | Completed 🎯 |`](#) | Pending ⏳ |
-| 16️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
+| 15️ | Multiple Arrays | [`multiArray`](problems/multiArray(day15).js) | Completed 🎯 |
+| 16️ | calculateAverage | [`calculateAverage`](problems/calculateAverage(day16).js) | Completed 🎯 |
 | 17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 20️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 21 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
