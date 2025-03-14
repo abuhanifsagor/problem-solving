@@ -7,3 +7,8 @@ Input:
 
 Output: 2
 */
+const countOccurrences = (str, subStr) => {
+  if (subStr === "") return 0;
+  return str.split(subStr).length - 1;
+};
+console.log(countOccurrences("hello world, hello everyone", "hello"));
