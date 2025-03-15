@@ -25,7 +25,7 @@
 | 14 | Count Vowels | [`countVowle`](problems/countVowel(day14).js) | Completed 🎯 |
 | 15️ | Multiple Arrays | [`multiArray`](problems/multiArray(day15).js) | Completed 🎯 |
 | 16️ | calculateAverage | [`calculateAverage`](problems/calculateAverage(day16).js) | Completed 🎯 |
-| 17️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 17️ | countOccurance | [`countOccurance`](problems/countOccurrences(day17).js) | Completed 🎯 |
 | 18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 <!--
 | 19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
