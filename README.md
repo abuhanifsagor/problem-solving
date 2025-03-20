@@ -26,11 +26,11 @@
 | 15️ | Multiple Arrays | [`multiArray`](problems/multiArray(day15).js) | Completed 🎯 |
 | 16️ | calculateAverage | [`calculateAverage`](problems/calculateAverage(day16).js) | Completed 🎯 |
 | 17️ | countOccurance | [`countOccurance`](problems/countOccurrences(day17).js) | Completed 🎯 |
-| 18️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-<!--
-| 19️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
-| 20️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+| 18️ | Replace All Occurance | [`replaceOccurance`](problems/replaceAllOccurrences(day18).js) | Completed 🎯 |
+| 19️ | Find Factorial | [`findFactorial`](problems/findFactorial(day19).js) | Completed 🎯 |
+| 20️ | Print Fibonacci Series | [`PrintFibonacci`](problems/printFibonacci(day20).js) | Completed 🎯 |
 | 21 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
+<!--
 | 22 | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 23️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
 | 24️ | [Coming Soon...] | [`Empty 🕳️`](#) | Pending ⏳ |
